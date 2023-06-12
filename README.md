@@ -2,8 +2,8 @@
 
 ## Objetivo
 
-. Vamos construir um projeto simples, capaz de calcular o IMC (índice de massa corporal), de acordo com a seguinte especificação:
-. IMC = Peso / Altura²
+Vamos construir um projeto simples, capaz de calcular o IMC (índice de massa corporal), de acordo com a seguinte especificação:
+* IMC = Peso / Altura²
 
 O resultado deve ser expresso, conforme os valores abaixo:
 * Magreza, quando o resultado é menor que 18,5 kg/m2;
